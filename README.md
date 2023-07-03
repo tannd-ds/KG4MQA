@@ -9,7 +9,7 @@ However, the model has not achieved the expected accuracy and complexity, our te
 
 Details of the models and experimental results can be found in the following report.
 
-Our model is available at [https://github.com/ndp1707/KG4MQA](https://github.com/tannd-ds/KG4MQA)
+Our model is available at [https://github.com/tannd-ds/KG4MQA](https://github.com/tannd-ds/KG4MQA)
 ## Result
 
 
