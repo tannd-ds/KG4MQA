@@ -108,4 +108,4 @@ extract_triples(toks = toks, triples= triples)
 ## Authors
 
 - [@Tan Nhat Do - 21522575@gm.uit.edu.vn](https://github.com/tannd-ds)
-- [@Phuong Dieu Nguyen - 21520091@gm.uit.edu.vn](https://github.com/ndp1707)
+- [@Phuong Dieu Nguyen - 21520091@gm.uit.edu.vn](https://github.com/Ndphuong-17)
