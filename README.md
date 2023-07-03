@@ -77,7 +77,7 @@ model.annotate(text = 'Tôi là nhà cách mạng cộng sản Việt Nam .')
 ### NER
 
 - Our NER() approach based on [PhoNLP](https://github.com/VinAIResearch/PhoNLP) with [PhoBERT](https://github.com/VinAIResearch/PhoBERT)-base pretrain and our Historical Dictionary.
-- The pre-trained phonlp for History of VietNam can be manually downloaded from 
+- The pre-trained phonlp for History of VietNam can be manually downloaded from [here](https://drive.google.com/file/d/13Y0alDyz_Q7cHli5ytYuiwxu1yo7ijwE/view?usp=drive_link)
 ```python
 from ner.ner import NER
 
