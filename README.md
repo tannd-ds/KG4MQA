@@ -60,7 +60,7 @@ remove_data(word_list, data = vocabulary , path= '/absolute/path/to/vocabulary')
 
 
 ### TOKENIZE, POSTAG
-- Tokenize based on Longest_matching, [underthesea](https://github.com/undertheseanlp/underthesea) and Pyvi
+- Tokenize based on Longest_matching, [underthesea](https://github.com/undertheseanlp/underthesea) and [Pyvi](https://github.com/trungtv/pyvi)
 ```python
 from Tokenize.Tokenize import Tokenize, longest_matching, Underthesea_pyvi
 
