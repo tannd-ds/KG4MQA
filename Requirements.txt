@@ -1,0 +1,6 @@
+langdetect
+unidecode
+pyvi
+underthesea
+py_vncorenlp
+phonlp
